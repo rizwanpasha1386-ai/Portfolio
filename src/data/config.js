@@ -8,15 +8,15 @@ export const personalInfo = {
   title: "Software Engineer | Backend Developer | AI Enthusiast",
   tagline:
     "Building scalable systems, intelligent applications, and software that solves real-world problems.",
-  email: "your.email@example.com", // TODO: Replace with your actual email
-  phone: "", // Optional
+  email: "rizwanpasha1386@gmail.com",
+  phone: "8618281144", // Optional
   location: "Bengaluru, India",
   resumeUrl: "/resume.pdf", // Place your resume in the /public folder
 };
 
 export const socialLinks = {
   github: "https://github.com/rizwanpasha1386-ai",
-  linkedin: "https://linkedin.com/in/your-linkedin", // TODO: Replace with your LinkedIn
+  linkedin: "https://www.linkedin.com/in/rizwan-pasha-8a3508368/", // TODO: Replace with your LinkedIn
   twitter: "", // Optional
   leetcode: "", // Optional
 };
